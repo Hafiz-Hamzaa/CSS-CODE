@@ -1,0 +1,9 @@
+div{
+    height: 100px;
+    width: 120px;
+    background-color: palevioletred;
+    background-image: url(https://img.freepik.com/free-photo/birthday-cake_23-2150734944.jpg?ga=GA1.2.904921068.1702209666&semt=ais_hybrid);
+    background-size: cover;
+    position: fixed;
+    right: 0;
+}
