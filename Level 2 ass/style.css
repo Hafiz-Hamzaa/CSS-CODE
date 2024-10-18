@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.logo{
+    font-size: 25px;
+    color: peru;
+}
+nav{
+    background-color: #0f1111;
+    height: 60px;
+}
+nav a{
+    text-decoration: none;
+    color: white;
+    margin-right: 200px;
+}
+button{
+    background-color: #f08804;
+    color: white;
+}
+main{
+    height: 552px;
+}
+.box{
+    height: 100px;
+    width: 100px;
+    border: 2px solid purple;
+    display: inline-block;
+}
+#one{
+    background-color: rgba(184, 16, 170,0.5);
+}
+#two{
+    background-color: rgba(14, 110, 14,0.5)
+}
+#three{
+    background-color: rgba(192, 129, 12,0.5);
+}
+footer{
+    text-align: center;
+    color: white;
+    padding-top: 10px;
+    height: 30px;
+    background-color: #0f1111;
+}
