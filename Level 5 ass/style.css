@@ -1,0 +1,21 @@
+div{
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+    border: 20px solid blue;
+    border-top: 20px solid black;
+    animation-name: circularLoader;
+    animation-duration: 2s;
+    animation-delay: 0s;
+    animation-iteration-count: infinite;
+    
+}
+
+@keyframes circularLoader {
+    from{
+        transform: rotate(0deg);
+    }
+    to{
+        transform: rotate(360deg);
+    }   
+}
