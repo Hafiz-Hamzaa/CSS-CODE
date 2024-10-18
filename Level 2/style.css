@@ -1,0 +1,45 @@
+h1{
+    text-align: center;
+    color: blue;
+    border: 2px dashed purple;
+}
+.box{
+    height: 100px;
+    width:100px;
+    background-color: pink;
+    border: 2px solid green;
+    margin-top: 8px;
+}
+.boxes{
+    background-color: rgba(126, 7, 72,0.75);
+    padding: 20px;
+    margin: 20px;
+    height: 40px;
+    width: 50px;
+    border: 2px solid black;
+}
+
+.square{
+    text-align: center;
+    color: white;
+    padding-top: 10px;
+    margin-bottom: 10px;
+    height: 100px;
+    width: 100px;
+    background-color: rgb(15, 92, 92);
+    border: 2px solid black;
+    display: inline-block;
+    border-radius: 50%;
+}
+h3{
+    display: inline;
+}
+button{
+    display: block;
+}
+/* #rem{
+    visibility: hidden; (reserved rehti hai space)
+} */
+#rem{
+    display: none;
+}
